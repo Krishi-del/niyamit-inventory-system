@@ -1,0 +1,128 @@
+[
+  {
+    "name": "tomato",
+    "category": "Vegetable",
+    "price": 28,
+    "stock": 20,
+    "id": 1772556064399
+  },
+  {
+    "name": "capsicum",
+    "category": "Vegetable",
+    "price": 116,
+    "stock": 27,
+    "id": 1772556085720
+  },
+  {
+    "name": "peas",
+    "category": "Vegetable",
+    "price": 76,
+    "stock": 12,
+    "id": 1772556100865
+  },
+  {
+    "name": "green grapes",
+    "category": "Fruit",
+    "price": 236,
+    "stock": 33,
+    "id": 1772556126349
+  },
+  {
+    "name": "apple",
+    "category": "Fruit",
+    "price": 318,
+    "stock": 23,
+    "id": 1772556147825
+  },
+  {
+    "name": "orange",
+    "category": "Fruit",
+    "price": 160,
+    "stock": 2,
+    "id": 1772595617258
+  },
+  {
+    "name": "potato",
+    "category": "Vegetable",
+    "price": 30,
+    "stock": 12,
+    "id": 1772610924809
+  },
+  {
+    "name": "black grapes",
+    "category": "Fruit",
+    "price": 200,
+    "stock": 23,
+    "id": 1772610944547
+  },
+  {
+    "name": "cucumber",
+    "category": "Vegetable",
+    "price": 23,
+    "stock": 12,
+    "id": 1772610964683
+  },
+  {
+    "name": "cherry",
+    "category": "Fruit",
+    "price": 20,
+    "stock": 0,
+    "id": 1772611040452
+  },
+  {
+    "name": "mango",
+    "category": "Fruit",
+    "price": 180,
+    "stock": 12,
+    "id": 1772681058321
+  },
+  {
+    "name": "Pomegranate",
+    "category": "Fruit",
+    "price": 47,
+    "stock": 33,
+    "id": 1772681117614
+  },
+  {
+    "name": "onion",
+    "category": "Vegetable",
+    "price": 30,
+    "stock": 1,
+    "id": 1772681152356
+  },
+  {
+    "name": "carrot",
+    "category": "Vegetable",
+    "price": 60,
+    "stock": 24,
+    "id": 1772681167592
+  },
+  {
+    "name": "spinach",
+    "category": "Vegetable",
+    "price": 25,
+    "stock": 12,
+    "id": 1772681183552
+  },
+  {
+    "name": "Cauliflower",
+    "category": "Vegetable",
+    "price": 50,
+    "stock": 36,
+    "id": 1772681199633
+  },
+  {
+    "name": "Lady Finger",
+    "category": "Vegetable",
+    "price": 55,
+    "stock": 33,
+    "id": 1772681218188
+  },
+  {
+    "name": "Watermelon",
+    "category": "Fruit",
+    "price": 30,
+    "stock": 32,
+    "id": 1772681242878
+  }
+]
